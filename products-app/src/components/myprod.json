@@ -1,0 +1,69 @@
+[{
+        "id":"1",
+        "product":"Samsung 32",
+        "price": 1.649,
+        "feature": "Smart TV Experience,Air Play,Eye Saver Mode,Gaming Hub,Voice Assistants,IoT Hub"
+        },
+        {
+        "id":"2",
+        "product":"Huawei Tablet",
+        "price": 999,
+        "feature": "22.5W Fast Charging"
+        },
+        {
+        "id":"3",
+        "product":"Asus Vivobook Laptop",
+        "price": 5.499,
+        "feature": "Backlit Chiclet Keyboard 1-Zone RGB with Num-key, Copilot Key",
+        "image": "https://www.jarir.com/cdn-cgi/image/fit=contain,width=auto,height=auto,quality=85,metadata=none/https://ak-asset.jarir.com/akeneo-prod/asset/0/f/6/9/0f69b2399e4c70f1123294d14a78c3422eede35c_634612.jpg"
+    },
+        {
+        "id":"4",
+        "product":"MSI Gaming Laptop",
+        "price": 4.999,
+        "feature": "Nahimic Sound, 2 X 2W Speakers",
+        "image": "https://www.jarir.com/cdn-cgi/image/fit=contain,width=auto,height=auto,quality=85,metadata=none/https://ak-asset.jarir.com/akeneo-prod/asset/2/f/4/0/2f408cce340b97d8d48725bb0d4345f67bf4c1d9_625264.jpg"
+        },
+
+        {
+        "id":"5",
+        "product":"Apple iPhone 14 Plus",
+        "price": 3.389,
+        "feature":"Modren",
+        "image": "https://www.jarir.com/cdn-cgi/image/fit=contain,width=auto,height=auto,quality=85,metadata=none/https://ak-asset.jarir.com/akeneo-prod/asset/6/3/c/0/63c08a27c2f2dc1d578540efefde66bb5cd03f85_595138.jpg"
+        },
+        {
+        "id":"6",
+        "product":"Apple iPhone 15 Plus",
+        "price": 4.249,
+        "feature": "Modren",
+        "image": "https://www.jarir.com/cdn-cgi/image/fit=contain,width=auto,height=auto,quality=85,metadata=none/https://ak-asset.jarir.com/akeneo-prod/asset/0/2/f/8/02f8690ba5f6e87fe5c542d55ad35bb43da59388_623641.jpg"
+    },
+    {
+        "id":"7",
+        "product":"Apple iPhone 14 Plus",
+        "price": 3.389,
+        "feature":"Modren",
+        "image": "https://www.jarir.com/cdn-cgi/image/fit=contain,width=auto,height=auto,quality=85,metadata=none/https://ak-asset.jarir.com/akeneo-prod/asset/5/a/b/f/5abf68a8464b751467b85dc66c1b782f58e575b7_595144.jpg"
+        },
+        {
+        "id":"8",
+        "product":"Huawei Tablet",
+        "price": 1.799,
+        "feature":"Fast Charging",
+        "image": "https://www.jarir.com/cdn-cgi/image/fit=contain,width=auto,height=auto,quality=85,metadata=none/https://ak-asset.jarir.com/akeneo-prod/asset/e/1/6/9/e169df71b6be0073881665768f8b63bfe08f265e_637289.jpg"
+        }
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ]

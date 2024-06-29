@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #edeff1;
+}
+.loginbtn{
+  border-radius: 20px;
+  background-color: #FF7F3E;
+  color: white;
+  font-size: 2rem;
+}
+.reginput{
+  font-size: 1.5rem;
+  border-radius: 10px;
+  border-color: gray;
+  
+
+}
+.loginbtn1{
+  background-color: #FF7F3E;
+  color: white;
+  font-size: 1.5rem;
+  border-radius: 10px;
+ 
+
+
+}
+.signDiv{
+ 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btns{
+  border-radius: 8px;
+  color: white;
+  width: 7rem;
+}
+
+.btns1{
+  border-radius: 8px;
+  border: 1px solid #ffb39d;
+  color: white;
+  width: 7rem;
+}
+.myCard{
+  border: 1px solid gray;
+}
+
+input::placeholder {
+  font-size: 21px;
+}
+optgroup {
+  font-size: 1px;
+}
+input, select{
+
+  border: 1px solid #ccc !important;
+  border-radius: 8px;
+}
+
+input:focus{
+  border: 1.6px solid #FF7F3E !important;
+  outline: none;
+}
+
+.InputUrl::placeholder{
+  font-size: 16px;
+  padding-left: 4px;
+}
+
